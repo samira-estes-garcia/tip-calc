@@ -2,7 +2,7 @@ Welcome to my Tip Calculator!
 
 Live Link: https://samira-estes-garcia.github.io/tip-calc/
 
-![Image](https://imgur.com/CIVdmfC)
+![Imgur](https://imgur.com/AkZzQmV)
 
 - Enter Total Bill
 - Enter the Number of People in Your Party
